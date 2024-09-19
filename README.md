@@ -1,7 +1,7 @@
 - 👋 Hei, I’m @SimonaBuzzi
 - 👀 I am a PhD student at Eindhoven University of Technology
 - 📫 How to reach me: s.buzzi@tue.nl
-- ✨ Python, R, C++
+- ✨ Python and C++
 
 <!---
 SimonaBuzzi/SimonaBuzzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
