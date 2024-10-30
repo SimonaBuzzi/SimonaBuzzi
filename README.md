@@ -1,6 +1,5 @@
 - 👋 Hei, I’m @SimonaBuzzi
-- 👀 I am a PhD student at Eindhoven University of Technology
-- 📫 How to reach me: s.buzzi@tue.nl
+- 👀 I am a PhD student at KU Leuven 
 - ✨ Python and C++
 
 <!---
